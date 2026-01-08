@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="200" src="https://i0.wp.com/www.gameanim.com/wp-content/uploads/2020/07/tumblr_ogwyd15w8V1swjm3io1_500.gif?resize=500%2C228&ssl=1"  />
+<div align="left">
+  <img height="200" src="https://i.imgur.com/qVqymRH.gif"  />
 </div>
 
 ###
@@ -40,10 +40,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samwel-Merces/Samwel-Merces/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samwel-Merces/Samwel-Merces/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Samwel-Merces/Samwel-Merces/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="232" src="https://i0.wp.com/www.gameanim.com/wp-content/uploads/2020/07/tumblr_ogwyd15w8V1swjm3io1_500.gif?resize=500%2C228&ssl=1"  />
+</div>
 
 ###
